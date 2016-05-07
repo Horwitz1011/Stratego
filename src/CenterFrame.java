@@ -1,5 +1,3 @@
-//try to see if you can make the word spy come up on the button
-
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
